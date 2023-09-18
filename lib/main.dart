@@ -17,13 +17,13 @@ class MyApp extends StatelessWidget {
 }
 
 class HomePage extends StatelessWidget {
-  final List<String> imageUrls = [
-    'https://images.unsplash.com/photo-1611859266238-4b98091d9d9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmlzc2FuJTIwcjM1JTIwZ3RyfGVufDB8fDB8fHww&w=1000&q=80',
-    'https://images.unsplash.com/photo-1598543821338-3b6306e0dcc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmlzc2FuJTIwcjM1JTIwZ3RyfGVufDB8fDB8fHww&w=1000&q=80',
-    'https://i.ytimg.com/vi/EwrMnUBlb48/maxresdefault.jpg',
-    'https://i.pinimg.com/1200x/97/b6/4d/97b64d8d3419f8e1eb74f203cb1e2075.jpg',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mahindra_Thar_Photoshoot_At_Perupalem_Beach_%28West_Godavari_District%2CAP%2CIndia_%29_Djdavid.jpg/1200px-Mahindra_Thar_Photoshoot_At_Perupalem_Beach_%28West_Godavari_District%2CAP%2CIndia_%29_Djdavid.jpg',
-    'https://w0.peakpx.com/wallpaper/17/407/HD-wallpaper-black-thar-frontlook-black-car-mahindra-thumbnail.jpg',
+ final List<String> imageUrls = [
+    'https://img.freepik.com/free-psd/digital-device-mockup_53876-91374.jpg?w=826&t=st=1695060371~exp=1695060971~hmac=d0e40b95aba52af70d7fcd74e92095ccdd1b05189ca001c9600677a80ed9333d',
+    'https://img.freepik.com/free-psd/laptop-blue-background-mock-up_1022-178.jpg?w=826&t=st=1695060436~exp=1695061036~hmac=12b3a3391e7e4f6f12497f895cc181409f091157a82540305c5f7956b663ae1a',
+    'https://img.freepik.com/free-psd/still-life-technology-device-minimal-display_23-2150744509.jpg?w=996&t=st=1695060491~exp=1695061091~hmac=af9f4161760c2a6c03d320c4427cb3ae5c4553e6f4266e97e4979bf99ef9946e',
+    'https://img.freepik.com/free-vector/laptop_53876-43921.jpg?w=740&t=st=1695060529~exp=1695061129~hmac=a177bdea0cc95db1c17c5f6fca75d02e64b595256432322d33360f28f17373ba',
+    'https://img.freepik.com/free-photo/open-laptop-with-blank-white-screen-against-pink-background_23-2147916361.jpg?t=st=1695060491~exp=1695061091~hmac=9b5dee3c7ab82c4992e51afc95d791965ef27076e72ef8b2fa8c2537a9bf1567',
+    'https://img.freepik.com/free-psd/laptop-mock-up-isolated_1310-1458.jpg?t=st=1695060529~exp=1695061129~hmac=9ad8a897231fb7d522f6a3f76a0d5f928f089171b9fea8406f008d4adb9e0646',
   ];
   @override
   Widget build(BuildContext context) {
@@ -103,7 +103,7 @@ class HomePage extends StatelessWidget {
             ),
             ListTile(
               leading: Image.network(
-                'https://images.unsplash.com/photo-1611859266238-4b98091d9d9b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8bmlzc2FuJTIwcjM1JTIwZ3RyfGVufDB8fDB8fHww&w=1000&q=80',
+                'https://img.freepik.com/free-psd/digital-device-mockup_53876-91374.jpg?w=826&t=st=1695060371~exp=1695060971~hmac=d0e40b95aba52af70d7fcd74e92095ccdd1b05189ca001c9600677a80ed9333d',
                 height: 120,
                 width: 80,
                 fit: BoxFit.cover,
@@ -114,7 +114,7 @@ class HomePage extends StatelessWidget {
 
             ListTile(
               leading: Image.network(
-                'https://images.unsplash.com/photo-1598543821338-3b6306e0dcc3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bmlzc2FuJTIwcjM1JTIwZ3RyfGVufDB8fDB8fHww&w=1000&q=80',
+                'https://img.freepik.com/free-psd/laptop-blue-background-mock-up_1022-178.jpg?w=826&t=st=1695060436~exp=1695061036~hmac=12b3a3391e7e4f6f12497f895cc181409f091157a82540305c5f7956b663ae1a',
                 height: 120,
                 width: 80,
                 fit: BoxFit.cover,
@@ -125,7 +125,7 @@ class HomePage extends StatelessWidget {
 
             ListTile(
               leading: Image.network(
-                'https://english.cdn.zeenews.com/sites/default/files/2021/12/19/997351-mahindra-thar-modified.jpg',
+                'https://img.freepik.com/free-psd/still-life-technology-device-minimal-display_23-2150744509.jpg?w=996&t=st=1695060491~exp=1695061091~hmac=af9f4161760c2a6c03d320c4427cb3ae5c4553e6f4266e97e4979bf99ef9946e',
                 height: 120,
                 width: 80,
                 fit: BoxFit.cover,
