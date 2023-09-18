@@ -1,1 +1,2 @@
-https://img.freepik.com/free-psd/still-life-technology-device-minimal-display_23-2150744509.jpg?w=996&t=st=1695060491~exp=1695061091~hmac=af9f4161760c2a6c03d320c4427cb3ae5c4553e6f4266e97e4979bf99ef9946e
+![image](https://github.com/KamranHussen71/m_6_assignment12/assets/140729209/80d815b5-9687-4289-a005-d2585ee19c11)
+
