@@ -1,16 +1,1 @@
-# m_6_assignment12
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+https://img.freepik.com/free-psd/still-life-technology-device-minimal-display_23-2150744509.jpg?w=996&t=st=1695060491~exp=1695061091~hmac=af9f4161760c2a6c03d320c4427cb3ae5c4553e6f4266e97e4979bf99ef9946e
